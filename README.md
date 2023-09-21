@@ -167,6 +167,14 @@ ORDER BY Total_Orders ASC
 
 Created a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
 
+## DASHBOARD
+
+![image](https://github.com/farhan965/Pizza-Sales-end-to-end-Data-Analysis-Project/assets/116187483/59e3f953-eaf3-4edb-951b-2fcc7c43d6f2)
+
+![image](https://github.com/farhan965/Pizza-Sales-end-to-end-Data-Analysis-Project/assets/116187483/bfc6eaf3-8219-4f49-ad03-b987095e325b)
+
+
+
 ## SOFTWARES USED:
 MS OFFICE/ EXCEL: VERSION 2021
 
