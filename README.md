@@ -1,4 +1,4 @@
-![image](https://github.com/farhan965/Pizza-Sales-end-to-end-Data-Analysis-Project/assets/116187483/92b7d40e-ee11-46f2-8e1d-e3b46f565587)# Pizza-Sales-end-to-end-Data-Analysis-Project
+# Pizza-Sales-end-to-end-Data-Analysis-Project
 
 ## PROBLEM STATEMENT
 
