@@ -20,7 +20,7 @@
 - SQL SERVER MANAGEMENT STUDIO 
 - TABLEAU
 
-## Analytics:
+## Analytics
 
 Analyzed key indicators for our pizza sales data to gain insights into our business performance. Calculated the following metrics:
 
