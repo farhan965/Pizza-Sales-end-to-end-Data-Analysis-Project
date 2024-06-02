@@ -173,6 +173,9 @@ Created a bar chart showcasing the bottom 5 worst-selling pizzas based on the Re
 
 ![image](https://github.com/farhan965/Pizza-Sales-end-to-end-Data-Analysis-Project/assets/116187483/bfc6eaf3-8219-4f49-ad03-b987095e325b)
 
+![image](https://github.com/farhan965/Pizza-Sales-end-to-end-Data-Analysis-Project/assets/116187483/6cccd54e-94d5-4dff-a09c-34bc36b78fbe)
+
+
 
 
 ## SOFTWARES USED:
