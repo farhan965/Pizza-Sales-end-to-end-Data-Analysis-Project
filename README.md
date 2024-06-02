@@ -1,7 +1,11 @@
 # Pizza-Sales-end-to-end-Data-Analysis-Project
 
-## PROBLEM STATEMENT
+## Introduction
+The goal of this project is to perform data analytics on pizza sales data and develop a machine learning regression model to predict the total price and various tools and technologies are  used, including Python, Machine Learning, Tableau, Azure Data Factory, Azure Synapse, Azure Databricks, ADLS Gen 2, and Azure Key Vault.
 
+## Architecture
+
+![pizza_project_architecture_blue](https://github.com/farhan965/Pizza-Sales-end-to-end-Data-Analysis-Project/assets/116187483/d8e037d0-c805-44ba-8b37-fb1e24a4fded)
 
 
 ## Technology Used
