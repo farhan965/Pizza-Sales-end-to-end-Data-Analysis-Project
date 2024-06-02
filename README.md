@@ -12,7 +12,7 @@
 - Azure Synapse
 - Azure Databricks
 - ADLS Gen 2
-- Azure Key Vaault
+- Azure Key Vault
 
 ## Tools
 - MS OFFICE/ EXCEL
