@@ -4,6 +4,22 @@
 
 Analyzed key indicators for our pizza sales data to gain insights into our business performance. Calculated the following metrics:
 
+## Technology Used
+- Programming Language - Python
+
+## Azure
+- Azure Data Factory
+- Azure Synapse
+- Azure Databricks
+- ADLS Gen 2
+- Azure Key Vaault
+
+## Tools
+- MS OFFICE/ EXCEL
+- MS SQL SERVER
+- SQL SERVER MANAGEMENT STUDIO 
+- TABLEAU
+
 Total Revenue: The sum of the total price of all pizza orders.
 
 QUERY : SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
@@ -178,24 +194,10 @@ Created a bar chart showcasing the bottom 5 worst-selling pizzas based on the Re
 
 
 
-## SOFTWARES USED:
-MS OFFICE/ EXCEL
 
-MS SQL SERVER
 
-SQL SERVER MANAGEMENT STUDIO 
 
-TABLEAU
 
-AZURE DATA FACTORY
-
-AZURE SYNAPSE
-
-AZURE DATA BRICKS
-
-AZURE DATA LAKE GEN 2
-
-AZURE KEY VAULT
 
 
 
