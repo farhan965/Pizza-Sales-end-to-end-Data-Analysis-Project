@@ -8,7 +8,7 @@ The goal of this project is to perform data analytics on pizza sales data and de
 ![pizza_project_architecture_blue](https://github.com/farhan965/Pizza-Sales-end-to-end-Data-Analysis-Project/assets/116187483/06895654-2550-40ba-a0a9-5f724fde477a)
 
 ## Project Demo
-
+https://youtu.be/vwN6gNmiSkA?si=4iSbVtu2Fl_Ecx2H
 
 
 
