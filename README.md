@@ -30,7 +30,7 @@ https://youtu.be/JGNAsg_H_ec
 
 ## Analytics
 
-Analyzed key indicators for our pizza sales data to gain insights into our business performance. Calculated the following metrics:
+Analyzed key indicators for  pizza sales data to gain insights into  business performance. Calculated the following metrics:
 
 Total Revenue: The sum of the total price of all pizza orders.
 
