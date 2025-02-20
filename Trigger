@@ -1,0 +1,33 @@
+CREATE TRIGGER trg_RegenerateUID
+ON your_table
+AFTER INSERT
+AS
+BEGIN
+    DECLARE @UID VARCHAR(9);
+    DECLARE @ID INT;
+
+    -- Check for duplicates
+    DECLARE duplicate_cursor CURSOR FOR
+    SELECT UID
+    FROM inserted
+    WHERE UID IN (SELECT UID FROM your_table);
+
+    OPEN duplicate_cursor;
+    FETCH NEXT FROM duplicate_cursor INTO @UID;
+
+    WHILE @@FETCH_STATUS = 0
+    BEGIN
+        -- Regenerate UID if duplicate found
+        SET @UID = 'FD' + LEFT(REPLACE(CONVERT(VARCHAR(50), NEWID(), 2), '-', ''), 7);
+
+        -- Update the inserted row with new UID
+        UPDATE your_table
+        SET UID = @UID
+        WHERE UID = @UID;
+
+        FETCH NEXT FROM duplicate_cursor INTO @UID;
+    END;
+
+    CLOSE duplicate_cursor;
+    DEALLOCATE duplicate_cursor;
+END;
